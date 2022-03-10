@@ -1,0 +1,1 @@
+This project is on shell permissions. It focuses on the commands chmod, sudo, su, chown, and chgrp. It also highlights how to create a user or group, how to print real and effective user and group IDs and how to print the effective userid
